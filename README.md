@@ -20,7 +20,8 @@ Ensure you have Python 3 installed on your system.
 
 Installation & Running the Game
 Clone the repository
-git clone https:/Tanya-yadav-bit/github.com//word-scramble-game.git
+
+git clone https://github.com/Tanya-yadav-bit/word-scramble-game.git
 cd word-scramble-game
 
 Run the script
