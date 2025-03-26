@@ -1,4 +1,6 @@
 🎲 Word Scramble Game 🎬
+
+
 A fun and interactive word scramble game where players unscramble Bollywood movie titles based on hints. Test your knowledge of iconic films while racing against limited attempts! 🎥✨
 
 📝 How It Works
