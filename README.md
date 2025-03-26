@@ -1,33 +1,39 @@
-🎲 Word Scramble Game 🎬
+<h1>🎲 Word Scramble Game 🎬</h1>
 
+<p>A fun and interactive word scramble game where players unscramble Bollywood movie titles based on hints. 
+Test your knowledge of iconic films while racing against limited attempts! 🎥✨</p>
 
-A fun and interactive word scramble game where players unscramble Bollywood movie titles based on hints. Test your knowledge of iconic films while racing against limited attempts! 🎥✨
+<h2>📝 How It Works</h2>
+<ul>
+  <li>The game picks a random Bollywood movie title from a predefined list.</li>
+  <li>The title is <b>scrambled</b>, and a <b>hint</b> is provided.</li>
+  <li>The player has <b>two attempts</b> to guess the correct movie name.</li>
+  <li>Correct answers increase the <b>score</b>, while wrong answers reveal the correct title.</li>
+  <li>The game runs for <b>five rounds</b>, and the final score is displayed at the end.</li>
+</ul>
 
-📝 How It Works
-The game picks a random Bollywood movie title from a predefined list.
+<h2>🚀 Getting Started</h2>
 
-The title is scrambled, and a hint is provided.
+<h3>Prerequisites</h3>
+<p>Ensure you have <b>Python 3</b> installed on your system.</p>
 
-The player has two attempts to guess the correct movie name.
+<h3>Installation & Running the Game</h3>
+<p>Clone the repository:</p>
 
-Correct answers increase the score, while wrong answers reveal the correct title.
-
-The game runs for five rounds, and the final score is displayed at the end.
-
-🚀 Getting Started
-Prerequisites
-Ensure you have Python 3 installed on your system.
-
-Installation & Running the Game
-Clone the repository
-
+<pre>
 git clone https://github.com/Tanya-yadav-bit/word-scramble-game.git
 cd word-scramble-game
+</pre>
 
-Run the script
+<p>Run the script:</p>
+
+<pre>
 python word_scramble.py
-🎮 Example Gameplay
+</pre>
 
+<h2>🎮 Example Gameplay</h2>
+
+<pre>
 Welcome to the Word Scramble Game!
 You have 5 words to guess
 
@@ -40,12 +46,17 @@ Scrambled word: balabhuai
 Hint: An epic action-drama about a legendary warrior and king.
 Your guess: baahubali
 Congratulations! You guessed it right.
-📌 Features
-✅ Bollywood-themed word scramble
-✅ Hints provided for every word
-✅ Limited attempts for added challenge
-✅ Score tracking system
+</pre>
 
-🤝 Contributing
-Feel free to contribute by adding more movie names, improving the game logic, or suggesting new features!
+<h2>📌 Features</h2>
+<ul>
+  <li>✅ Bollywood-themed word scramble</li>
+  <li>✅ Hints provided for every word</li>
+  <li>✅ Limited attempts for added challenge</li>
+  <li>✅ Score tracking system</li>
+</ul>
+
+<h2>🤝 Contributing</h2>
+<p>Feel free to contribute by adding more movie names, improving the game logic, or suggesting new features!</p>
+
 
