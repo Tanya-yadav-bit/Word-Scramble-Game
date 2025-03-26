@@ -1,4 +1,4 @@
-<h1>🎲 Word Scramble Game 🎬</h1>
+<h1>🎲 Word Scramble Game (using PYTHON)🎬</h1>
 
 <p>A fun and interactive word scramble game where players unscramble Bollywood movie titles based on hints. 
 Test your knowledge of iconic films while racing against limited attempts! 🎥✨</p>
